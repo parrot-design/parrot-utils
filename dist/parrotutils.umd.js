@@ -1,0 +1,1 @@
+!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports):"function"==typeof define&&define.amd?define(["exports"],t):t((e="undefined"!=typeof globalThis?globalThis:e||self).ParrotUtils={})}(this,(function(e){"use strict";e.clamp=function(e,t,n){return Math.min(Math.max(e,t),n)},Object.defineProperty(e,"__esModule",{value:!0})}));
